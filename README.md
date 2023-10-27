@@ -1,8 +1,8 @@
 # TOY ASSEMBLY 
 Projeto 2 da disciplina Programação de Computadores 1 realizado de acordo com o arquivo: https://danielsaad.com/programacao-de-computadores-1/assets/trabalhos/toy-assembly.pdf
 # Autor
-Nome: Ciro Moraes Rocha
-Disciplina: Programação de Computadores 1
+Nome: Ciro Moraes Rocha\n
+Disciplina: Programação de Computadores 1\n
 Instituição: Instituto Federal de Brasília (IFB)
 
 # Descrição
